@@ -41,7 +41,7 @@ body {
 }
 
 .tekst{
-    background-color: white;
+    background-color: rgb(224, 135, 212);
     width: 60%;
     height: 30%;
     margin-left: 10%;
@@ -73,7 +73,7 @@ li a {
 }
 
 .wedstrijden{
-    background-color: white;
+    background-color: lightblue;
     width: 50%;
     height: 30%;
     margin-left: 10%;
@@ -81,8 +81,24 @@ li a {
 }
 
 .spelers{
-    background-color: white;
+    background-color: lightblue;
     width: 60%;
+    height: 45%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.uitslagen{
+    background-color: lightblue;
+    width: 50%;
+    height: 30%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.stand{
+    background-color: lightblue;
+    width: 12%;
     height: 40%;
     margin-left: 10%;
     margin-top: 5%;
