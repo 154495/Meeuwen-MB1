@@ -15,37 +15,14 @@ body {
     height: 13%;
 }
 
-#container {
-    background-color: white;
-    width: 100%;
-    height: 100%;
-    display: flex;
+#demeeuwen {
+    width: 60%;
 }
 
 #menu {
     background-color: white;
     width: 100%;
     height: 47px;
-}
-
-#berichten {
-    background-color: white;
-    width: 100%;
-    height: 100%;
-}
-
-.kopjes{
-    background-color: white;
-    width: 25%;
-    height: 100%;
-}
-
-.tekst{
-    background-color: rgb(224, 135, 212);
-    width: 60%;
-    height: 30%;
-    margin-left: 10%;
-    margin-top: 5%;
 }
 
 ul {
@@ -68,8 +45,50 @@ li a {
   text-decoration: none;
 }
 
-#demeeuwen {
+#container {
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+#berichten {
+    background-color: white;
+    width: 100%;
+    height: 100%;
+}
+
+.berichten {
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.tekst{
+    background-color: rgb(224, 135, 212);
     width: 60%;
+    height: 30%;
+    margin-left: 4%;
+    margin-top: 5%;
+}
+
+.spelers{
+    background-color: lightblue;
+    width: 50%;
+    height: 45%;
+    margin-left: 4%;
+    margin-top: 5%;
+}
+
+.aanvaller{
+    margin-top: 10%;
+}
+
+.verhaal{
+    width: 100%;
+    height: 100%;
+    display: flex;
 }
 
 .wedstrijden{
@@ -80,12 +99,10 @@ li a {
     margin-top: 5%;
 }
 
-.spelers{
-    background-color: lightblue;
-    width: 60%;
-    height: 45%;
+.volleybal{
+    width: 50%;
     margin-left: 10%;
-    margin-top: 5%;
+    margin-top: 8%;
 }
 
 .uitslagen{
@@ -94,6 +111,10 @@ li a {
     height: 30%;
     margin-left: 10%;
     margin-top: 5%;
+}
+
+.uitslag{
+
 }
 
 .stand{
