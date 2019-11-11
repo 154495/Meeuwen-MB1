@@ -62,9 +62,19 @@ li a {
 .informatie{
     background-color: lightblue;
     width: 40%;
-    height: 40%;
+    height: 30%;
     margin-left: 5%;
     margin-top: 5%;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+p{
+    margin-left: 2%;
+}
+
+h1{
+    margin-left: 2%;
 }
 
 .team{
@@ -84,6 +94,8 @@ li a {
     height: 30%;
     margin-left: 4%;
     margin-top: 5%;
+    border: 2px solid black;
+    border-radius: 5px;
 }
 
 .spelers{
@@ -92,6 +104,8 @@ li a {
     height: 45%;
     margin-left: 4%;
     margin-top: 5%;
+    border: 2px solid black;
+    border-radius: 5px;
 }
 
 .aanvaller{
@@ -110,6 +124,8 @@ li a {
     height: 30%;
     margin-left: 10%;
     margin-top: 5%;
+    border: 2px solid black;
+    border-radius: 5px;
 }
 
 .volleybal{
@@ -130,6 +146,8 @@ li a {
     height: 30%;
     margin-left: 5%;
     margin-top: 5%;
+    border: 2px solid black;
+    border-radius: 5px;
 }
 
 .uitslag{
@@ -139,10 +157,12 @@ li a {
 
 .stand{
     background-color: lightblue;
-    width: 12%;
+    width: 9%;
     height: 30%;
     margin-left: 10%;
     margin-top: 5%;
+    border: 2px solid black;
+    border-radius: 5px;
 }
 
 .fotos{
